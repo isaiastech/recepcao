@@ -4477,9 +4477,9 @@ Sobra R$0.65
 O total de moedas    R$83.65
 O total de dinheiro  R$425.00
 O total de vales     R$10.60
-O total de Cartões   R$59.85
+O total de Cartï¿½es   R$59.85
 ---------------------------------------------------
-O total a ser descontado do caixa é R$77.85
+O total a ser descontado do caixa ï¿½ R$77.85
 O total do caixa 579.10 menos o fundo de caixa (R$500,00)
 Sobra R$1.25
 ----------------------------------------------------
@@ -4489,9 +4489,9 @@ Sobra R$1.25
 O total de moedas    R$77.00
 O total de dinheiro  R$516.00
 O total de vales     R$2.00
-O total de Cartões   R$608.00
+O total de Cartï¿½es   R$608.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$701.80
+O total a ser descontado do caixa ï¿½ R$701.80
 O total do caixa 1203.00 menos o fundo de caixa (R$500,00)
 Sobra R$1.20
 ----------------------------------------------------
@@ -4501,9 +4501,9 @@ Sobra R$1.20
 O total de moedas    R$74.55
 O total de dinheiro  R$424.00
 O total de vales     R$0.80
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.35 menos o fundo de caixa (R$500,00)
 Sobra R$-0.65
 ----------------------------------------------------
@@ -4513,9 +4513,9 @@ Sobra R$-0.65
 O total de moedas    R$70.45
 O total de dinheiro  R$849.00
 O total de vales     R$8.85
-O total de Cartões   R$2111.40
+O total de Cartï¿½es   R$2111.40
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2138.40
+O total a ser descontado do caixa ï¿½ R$2138.40
 O total do caixa 3039.70 menos o fundo de caixa (R$500,00)
 Sobra R$401.30
 ----------------------------------------------------
@@ -4525,9 +4525,9 @@ Sobra R$401.30
 O total de moedas    R$68.10
 O total de dinheiro  R$382.00
 O total de vales     R$49.90
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.00 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -4537,9 +4537,9 @@ Sobra R$0.00
 O total de moedas    R$55.60
 O total de dinheiro  R$605.00
 O total de vales     R$635.65
-O total de Cartões   R$32.30
+O total de Cartï¿½es   R$32.30
 ---------------------------------------------------
-O total a ser descontado do caixa é R$789.05
+O total a ser descontado do caixa ï¿½ R$789.05
 O total do caixa 1328.55 menos o fundo de caixa (R$500,00)
 Sobra R$39.50
 ----------------------------------------------------
@@ -4549,9 +4549,9 @@ Sobra R$39.50
 O total de moedas    R$73.00
 O total de dinheiro  R$390.00
 O total de vales     R$37.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.00 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -4561,9 +4561,9 @@ Sobra R$0.00
 O total de moedas    R$85.00
 O total de dinheiro  R$416.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 501.00 menos o fundo de caixa (R$500,00)
 Sobra R$1.00
 ----------------------------------------------------
@@ -4573,9 +4573,9 @@ Sobra R$1.00
 O total de moedas    R$128.55
 O total de dinheiro  R$365.00
 O total de vales     R$5.40
-O total de Cartões   R$552.65
+O total de Cartï¿½es   R$552.65
 ---------------------------------------------------
-O total a ser descontado do caixa é R$552.65
+O total a ser descontado do caixa ï¿½ R$552.65
 O total do caixa 1051.60 menos o fundo de caixa (R$500,00)
 Sobra R$-1.05
 ----------------------------------------------------
@@ -4585,9 +4585,9 @@ Sobra R$-1.05
 O total de moedas    R$135.45
 O total de dinheiro  R$1200.00
 O total de vales     R$0.00
-O total de Cartões   R$2036.95
+O total de Cartï¿½es   R$2036.95
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2873.95
+O total a ser descontado do caixa ï¿½ R$2873.95
 O total do caixa 3372.40 menos o fundo de caixa (R$500,00)
 Sobra R$-1.55
 ----------------------------------------------------
@@ -4597,9 +4597,9 @@ Sobra R$-1.55
 O total de moedas    R$128.95
 O total de dinheiro  R$364.00
 O total de vales     R$56.55
-O total de Cartões   R$362.00
+O total de Cartï¿½es   R$362.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$411.00
+O total a ser descontado do caixa ï¿½ R$411.00
 O total do caixa 911.50 menos o fundo de caixa (R$500,00)
 Sobra R$0.50
 ----------------------------------------------------
@@ -4609,9 +4609,9 @@ Sobra R$0.50
 O total de moedas    R$178.95
 O total de dinheiro  R$328.00
 O total de vales     R$947.55
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$936.98
+O total a ser descontado do caixa ï¿½ R$936.98
 O total do caixa 1454.50 menos o fundo de caixa (R$500,00)
 Sobra R$17.52
 ----------------------------------------------------
@@ -4621,9 +4621,9 @@ Sobra R$17.52
 O total de moedas    R$175.85
 O total de dinheiro  R$323.00
 O total de vales     R$2.62
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 501.47 menos o fundo de caixa (R$500,00)
 Sobra R$1.47
 ----------------------------------------------------
@@ -4633,9 +4633,9 @@ Sobra R$1.47
 O total de moedas    R$166.20
 O total de dinheiro  R$462.00
 O total de vales     R$0.00
-O total de Cartões   R$128.10
+O total de Cartï¿½es   R$128.10
 ---------------------------------------------------
-O total a ser descontado do caixa é R$256.20
+O total a ser descontado do caixa ï¿½ R$256.20
 O total do caixa 756.30 menos o fundo de caixa (R$500,00)
 Sobra R$0.10
 ----------------------------------------------------
@@ -4645,9 +4645,9 @@ Sobra R$0.10
 O total de moedas    R$170.70
 O total de dinheiro  R$329.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.70 menos o fundo de caixa (R$500,00)
 Sobra R$-0.30
 ----------------------------------------------------
@@ -4657,9 +4657,9 @@ Sobra R$-0.30
 O total de moedas    R$167.95
 O total de dinheiro  R$332.00
 O total de vales     R$8.75
-O total de Cartões   R$220.00
+O total de Cartï¿½es   R$220.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$229.00
+O total a ser descontado do caixa ï¿½ R$229.00
 O total do caixa 728.70 menos o fundo de caixa (R$500,00)
 Sobra R$-0.30
 ----------------------------------------------------
@@ -4669,9 +4669,9 @@ Sobra R$-0.30
 O total de moedas    R$169.95
 O total de dinheiro  R$1220.00
 O total de vales     R$8.75
-O total de Cartões   R$1135.30
+O total de Cartï¿½es   R$1135.30
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2136.70
+O total a ser descontado do caixa ï¿½ R$2136.70
 O total do caixa 2534.00 menos o fundo de caixa (R$500,00)
 Sobra R$-102.70
 ----------------------------------------------------
@@ -4681,9 +4681,9 @@ Sobra R$-102.70
 O total de moedas    R$169.95
 O total de dinheiro  R$1220.00
 O total de vales     R$8.75
-O total de Cartões   R$1300.60
+O total de Cartï¿½es   R$1300.60
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2136.70
+O total a ser descontado do caixa ï¿½ R$2136.70
 O total do caixa 2699.30 menos o fundo de caixa (R$500,00)
 Sobra R$62.60
 ----------------------------------------------------
@@ -4693,9 +4693,9 @@ Sobra R$62.60
 O total de moedas    R$160.40
 O total de dinheiro  R$336.00
 O total de vales     R$7.55
-O total de Cartões   R$480.00
+O total de Cartï¿½es   R$480.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$480.00
+O total a ser descontado do caixa ï¿½ R$480.00
 O total do caixa 983.95 menos o fundo de caixa (R$500,00)
 Sobra R$3.95
 ----------------------------------------------------
@@ -4705,9 +4705,9 @@ Sobra R$3.95
 O total de moedas    R$155.40
 O total de dinheiro  R$386.00
 O total de vales     R$1183.05
-O total de Cartões   R$1180.50
+O total de Cartï¿½es   R$1180.50
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1184.50
+O total a ser descontado do caixa ï¿½ R$1184.50
 O total do caixa 2904.95 menos o fundo de caixa (R$500,00)
 Sobra R$1220.45
 ----------------------------------------------------
@@ -4717,9 +4717,9 @@ Sobra R$1220.45
 O total de moedas    R$155.40
 O total de dinheiro  R$386.00
 O total de vales     R$12.55
-O total de Cartões   R$1175.50
+O total de Cartï¿½es   R$1175.50
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1184.50
+O total a ser descontado do caixa ï¿½ R$1184.50
 O total do caixa 1729.45 menos o fundo de caixa (R$500,00)
 Sobra R$44.95
 ----------------------------------------------------
@@ -4729,9 +4729,9 @@ Sobra R$44.95
 O total de moedas    R$158.90
 O total de dinheiro  R$350.00
 O total de vales     R$0.00
-O total de Cartões   R$1387.75
+O total de Cartï¿½es   R$1387.75
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1396.75
+O total a ser descontado do caixa ï¿½ R$1396.75
 O total do caixa 1896.65 menos o fundo de caixa (R$500,00)
 Sobra R$-0.10
 ----------------------------------------------------
@@ -4741,9 +4741,9 @@ Sobra R$-0.10
 O total de moedas    R$151.60
 O total de dinheiro  R$345.00
 O total de vales     R$3.20
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.80 menos o fundo de caixa (R$500,00)
 Sobra R$-0.20
 ----------------------------------------------------
@@ -4753,9 +4753,9 @@ Sobra R$-0.20
 O total de moedas    R$150.45
 O total de dinheiro  R$349.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.45 menos o fundo de caixa (R$500,00)
 Sobra R$-0.55
 ----------------------------------------------------
@@ -4765,9 +4765,9 @@ Sobra R$-0.55
 O total de moedas    R$147.30
 O total de dinheiro  R$355.00
 O total de vales     R$0.00
-O total de Cartões   R$425.58
+O total de Cartï¿½es   R$425.58
 ---------------------------------------------------
-O total a ser descontado do caixa é R$428.47
+O total a ser descontado do caixa ï¿½ R$428.47
 O total do caixa 927.88 menos o fundo de caixa (R$500,00)
 Sobra R$-0.59
 ----------------------------------------------------
@@ -4777,9 +4777,9 @@ Sobra R$-0.59
 O total de moedas    R$146.05
 O total de dinheiro  R$352.00
 O total de vales     R$0.40
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 498.45 menos o fundo de caixa (R$500,00)
 Sobra R$-1.55
 ----------------------------------------------------
@@ -4789,9 +4789,9 @@ Sobra R$-1.55
 O total de moedas    R$142.35
 O total de dinheiro  R$1140.00
 O total de vales     R$2.00
-O total de Cartões   R$3715.25
+O total de Cartï¿½es   R$3715.25
 ---------------------------------------------------
-O total a ser descontado do caixa é R$4476.65
+O total a ser descontado do caixa ï¿½ R$4476.65
 O total do caixa 4999.60 menos o fundo de caixa (R$500,00)
 Sobra R$22.95
 ----------------------------------------------------
@@ -4801,9 +4801,9 @@ Sobra R$22.95
 O total de moedas    R$127.10
 O total de dinheiro  R$370.00
 O total de vales     R$3.40
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.50 menos o fundo de caixa (R$500,00)
 Sobra R$0.50
 ----------------------------------------------------
@@ -4813,9 +4813,9 @@ Sobra R$0.50
 O total de moedas    R$118.70
 O total de dinheiro  R$380.00
 O total de vales     R$1.10
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.80 menos o fundo de caixa (R$500,00)
 Sobra R$-0.20
 ----------------------------------------------------
@@ -4825,9 +4825,9 @@ Sobra R$-0.20
 O total de moedas    R$114.90
 O total de dinheiro  R$385.00
 O total de vales     R$392.20
-O total de Cartões   R$15.11
+O total de Cartï¿½es   R$15.11
 ---------------------------------------------------
-O total a ser descontado do caixa é R$407.31
+O total a ser descontado do caixa ï¿½ R$407.31
 O total do caixa 907.21 menos o fundo de caixa (R$500,00)
 Sobra R$-0.10
 ----------------------------------------------------
@@ -4837,9 +4837,9 @@ Sobra R$-0.10
 O total de moedas    R$107.95
 O total de dinheiro  R$392.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.95 menos o fundo de caixa (R$500,00)
 Sobra R$-0.05
 ----------------------------------------------------
@@ -4849,9 +4849,9 @@ Sobra R$-0.05
 O total de moedas    R$107.15
 O total de dinheiro  R$386.00
 O total de vales     R$6.80
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.95 menos o fundo de caixa (R$500,00)
 Sobra R$-0.05
 ----------------------------------------------------
@@ -4861,9 +4861,9 @@ Sobra R$-0.05
 O total de moedas    R$114.95
 O total de dinheiro  R$385.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.95 menos o fundo de caixa (R$500,00)
 Sobra R$-0.05
 ----------------------------------------------------
@@ -4873,9 +4873,9 @@ Sobra R$-0.05
 O total de moedas    R$113.75
 O total de dinheiro  R$940.00
 O total de vales     R$510.00
-O total de Cartões   R$888.80
+O total de Cartï¿½es   R$888.80
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1952.60
+O total a ser descontado do caixa ï¿½ R$1952.60
 O total do caixa 2452.55 menos o fundo de caixa (R$500,00)
 Sobra R$-0.05
 ----------------------------------------------------
@@ -4885,9 +4885,9 @@ Sobra R$-0.05
 O total de moedas    R$112.75
 O total de dinheiro  R$387.00
 O total de vales     R$1.88
-O total de Cartões   R$1260.89
+O total de Cartï¿½es   R$1260.89
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1260.89
+O total a ser descontado do caixa ï¿½ R$1260.89
 O total do caixa 1762.52 menos o fundo de caixa (R$500,00)
 Sobra R$1.63
 ----------------------------------------------------
@@ -4897,9 +4897,9 @@ Sobra R$1.63
 O total de moedas    R$120.00
 O total de dinheiro  R$390.00
 O total de vales     R$0.00
-O total de Cartões   R$1122.30
+O total de Cartï¿½es   R$1122.30
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1132.30
+O total a ser descontado do caixa ï¿½ R$1132.30
 O total do caixa 1632.30 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -4909,9 +4909,9 @@ Sobra R$0.00
 O total de moedas    R$115.15
 O total de dinheiro  R$380.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 495.15 menos o fundo de caixa (R$500,00)
 Sobra R$-4.85
 ----------------------------------------------------
@@ -4921,9 +4921,9 @@ Sobra R$-4.85
 O total de moedas    R$115.15
 O total de dinheiro  R$380.00
 O total de vales     R$5.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.15 menos o fundo de caixa (R$500,00)
 Sobra R$0.15
 ----------------------------------------------------
@@ -4933,9 +4933,9 @@ Sobra R$0.15
 O total de moedas    R$114.15
 O total de dinheiro  R$380.00
 O total de vales     R$6.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.15 menos o fundo de caixa (R$500,00)
 Sobra R$0.15
 ----------------------------------------------------
@@ -4945,9 +4945,9 @@ Sobra R$0.15
 O total de moedas    R$114.05
 O total de dinheiro  R$380.00
 O total de vales     R$6.00
-O total de Cartões   R$194.00
+O total de Cartï¿½es   R$194.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$194.00
+O total a ser descontado do caixa ï¿½ R$194.00
 O total do caixa 694.05 menos o fundo de caixa (R$500,00)
 Sobra R$0.05
 ----------------------------------------------------
@@ -4957,9 +4957,9 @@ Sobra R$0.05
 O total de moedas    R$109.75
 O total de dinheiro  R$384.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 493.75 menos o fundo de caixa (R$500,00)
 Sobra R$-6.25
 ----------------------------------------------------
@@ -4969,9 +4969,9 @@ Sobra R$-6.25
 O total de moedas    R$105.10
 O total de dinheiro  R$755.00
 O total de vales     R$0.00
-O total de Cartões   R$1721.00
+O total de Cartï¿½es   R$1721.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2080.90
+O total a ser descontado do caixa ï¿½ R$2080.90
 O total do caixa 2581.10 menos o fundo de caixa (R$500,00)
 Sobra R$0.20
 ----------------------------------------------------
@@ -4981,9 +4981,9 @@ Sobra R$0.20
 O total de moedas    R$105.05
 O total de dinheiro  R$394.00
 O total de vales     R$1.10
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.15 menos o fundo de caixa (R$500,00)
 Sobra R$0.15
 ----------------------------------------------------
@@ -4993,9 +4993,9 @@ Sobra R$0.15
 O total de moedas    R$105.70
 O total de dinheiro  R$391.00
 O total de vales     R$3.40
-O total de Cartões   R$939.05
+O total de Cartï¿½es   R$939.05
 ---------------------------------------------------
-O total a ser descontado do caixa é R$939.05
+O total a ser descontado do caixa ï¿½ R$939.05
 O total do caixa 1439.15 menos o fundo de caixa (R$500,00)
 Sobra R$0.10
 ----------------------------------------------------
@@ -5005,9 +5005,9 @@ Sobra R$0.10
 O total de moedas    R$108.30
 O total de dinheiro  R$392.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.30 menos o fundo de caixa (R$500,00)
 Sobra R$0.30
 ----------------------------------------------------
@@ -5017,9 +5017,9 @@ Sobra R$0.30
 O total de moedas    R$106.80
 O total de dinheiro  R$506.00
 O total de vales     R$0.00
-O total de Cartões   R$855.00
+O total de Cartï¿½es   R$855.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$967.50
+O total a ser descontado do caixa ï¿½ R$967.50
 O total do caixa 1467.80 menos o fundo de caixa (R$500,00)
 Sobra R$0.30
 ----------------------------------------------------
@@ -5029,9 +5029,9 @@ Sobra R$0.30
 O total de moedas    R$100.15
 O total de dinheiro  R$425.00
 O total de vales     R$0.00
-O total de Cartões   R$743.15
+O total de Cartï¿½es   R$743.15
 ---------------------------------------------------
-O total a ser descontado do caixa é R$761.15
+O total a ser descontado do caixa ï¿½ R$761.15
 O total do caixa 1268.30 menos o fundo de caixa (R$500,00)
 Sobra R$7.15
 ----------------------------------------------------
@@ -5041,9 +5041,9 @@ Sobra R$7.15
 O total de moedas    R$100.15
 O total de dinheiro  R$400.00
 O total de vales     R$0.00
-O total de Cartões   R$80.10
+O total de Cartï¿½es   R$80.10
 ---------------------------------------------------
-O total a ser descontado do caixa é R$80.10
+O total a ser descontado do caixa ï¿½ R$80.10
 O total do caixa 580.25 menos o fundo de caixa (R$500,00)
 Sobra R$0.15
 ----------------------------------------------------
@@ -5053,9 +5053,9 @@ Sobra R$0.15
 O total de moedas    R$93.15
 O total de dinheiro  R$404.00
 O total de vales     R$3.90
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 501.05 menos o fundo de caixa (R$500,00)
 Sobra R$1.05
 ----------------------------------------------------
@@ -5065,9 +5065,9 @@ Sobra R$1.05
 O total de moedas    R$94.00
 O total de dinheiro  R$938.00
 O total de vales     R$1482.60
-O total de Cartões   R$837.80
+O total de Cartï¿½es   R$837.80
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2852.40
+O total a ser descontado do caixa ï¿½ R$2852.40
 O total do caixa 3352.40 menos o fundo de caixa (R$500,00)
 Sobra R$-0.00
 ----------------------------------------------------
@@ -5077,9 +5077,9 @@ Sobra R$-0.00
 O total de moedas    R$91.15
 O total de dinheiro  R$407.00
 O total de vales     R$681.85
-O total de Cartões   R$18.00
+O total de Cartï¿½es   R$18.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$698.00
+O total a ser descontado do caixa ï¿½ R$698.00
 O total do caixa 1198.00 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -5089,9 +5089,9 @@ Sobra R$0.00
 O total de moedas    R$88.80
 O total de dinheiro  R$406.00
 O total de vales     R$5.20
-O total de Cartões   R$138.00
+O total de Cartï¿½es   R$138.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$138.00
+O total a ser descontado do caixa ï¿½ R$138.00
 O total do caixa 638.00 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -5101,9 +5101,9 @@ Sobra R$0.00
 O total de moedas    R$80.40
 O total de dinheiro  R$403.00
 O total de vales     R$6.80
-O total de Cartões   R$9.55
+O total de Cartï¿½es   R$9.55
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.75 menos o fundo de caixa (R$500,00)
 Sobra R$-0.25
 ----------------------------------------------------
@@ -5113,9 +5113,9 @@ Sobra R$-0.25
 O total de moedas    R$94.95
 O total de dinheiro  R$350.00
 O total de vales     R$54.95
-O total de Cartões   R$582.50
+O total de Cartï¿½es   R$582.50
 ---------------------------------------------------
-O total a ser descontado do caixa é R$582.50
+O total a ser descontado do caixa ï¿½ R$582.50
 O total do caixa 1082.40 menos o fundo de caixa (R$500,00)
 Sobra R$-0.10
 ----------------------------------------------------
@@ -5125,9 +5125,9 @@ Sobra R$-0.10
 O total de moedas    R$95.75
 O total de dinheiro  R$421.00
 O total de vales     R$4.95
-O total de Cartões   R$628.50
+O total de Cartï¿½es   R$628.50
 ---------------------------------------------------
-O total a ser descontado do caixa é R$675.70
+O total a ser descontado do caixa ï¿½ R$675.70
 O total do caixa 1150.20 menos o fundo de caixa (R$500,00)
 Sobra R$-25.50
 ----------------------------------------------------
@@ -5137,9 +5137,9 @@ Sobra R$-25.50
 O total de moedas    R$94.35
 O total de dinheiro  R$373.00
 O total de vales     R$32.57
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.92 menos o fundo de caixa (R$500,00)
 Sobra R$-0.08
 ----------------------------------------------------
@@ -5149,9 +5149,9 @@ Sobra R$-0.08
 O total de moedas    R$84.30
 O total de dinheiro  R$411.00
 O total de vales     R$4.95
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.25 menos o fundo de caixa (R$500,00)
 Sobra R$0.25
 ----------------------------------------------------
@@ -5161,9 +5161,9 @@ Sobra R$0.25
 O total de moedas    R$83.30
 O total de dinheiro  R$1242.00
 O total de vales     R$4.95
-O total de Cartões   R$1239.80
+O total de Cartï¿½es   R$1239.80
 ---------------------------------------------------
-O total a ser descontado do caixa é R$2061.30
+O total a ser descontado do caixa ï¿½ R$2061.30
 O total do caixa 2570.05 menos o fundo de caixa (R$500,00)
 Sobra R$8.75
 ----------------------------------------------------
@@ -5173,9 +5173,9 @@ Sobra R$8.75
 O total de moedas    R$81.10
 O total de dinheiro  R$415.00
 O total de vales     R$3.82
-O total de Cartões   R$480.00
+O total de Cartï¿½es   R$480.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$480.00
+O total a ser descontado do caixa ï¿½ R$480.00
 O total do caixa 979.92 menos o fundo de caixa (R$500,00)
 Sobra R$-0.08
 ----------------------------------------------------
@@ -5185,9 +5185,9 @@ Sobra R$-0.08
 O total de moedas    R$83.55
 O total de dinheiro  R$412.00
 O total de vales     R$3.65
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.20 menos o fundo de caixa (R$500,00)
 Sobra R$-0.80
 ----------------------------------------------------
@@ -5197,9 +5197,9 @@ Sobra R$-0.80
 O total de moedas    R$80.75
 O total de dinheiro  R$416.00
 O total de vales     R$3.65
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.40 menos o fundo de caixa (R$500,00)
 Sobra R$0.40
 ----------------------------------------------------
@@ -5209,9 +5209,9 @@ Sobra R$0.40
 O total de moedas    R$80.05
 O total de dinheiro  R$408.00
 O total de vales     R$13.00
-O total de Cartões   R$314.00
+O total de Cartï¿½es   R$314.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$314.25
+O total a ser descontado do caixa ï¿½ R$314.25
 O total do caixa 815.05 menos o fundo de caixa (R$500,00)
 Sobra R$0.80
 ----------------------------------------------------
@@ -5221,9 +5221,9 @@ Sobra R$0.80
 O total de moedas    R$80.55
 O total de dinheiro  R$408.00
 O total de vales     R$11.45
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.00 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -5233,9 +5233,9 @@ Sobra R$0.00
 O total de moedas    R$80.55
 O total de dinheiro  R$768.00
 O total de vales     R$200.75
-O total de Cartões   R$1196.25
+O total de Cartï¿½es   R$1196.25
 ---------------------------------------------------
-O total a ser descontado do caixa é R$1745.55
+O total a ser descontado do caixa ï¿½ R$1745.55
 O total do caixa 2245.55 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -5245,9 +5245,9 @@ Sobra R$0.00
 O total de moedas    R$80.85
 O total de dinheiro  R$424.00
 O total de vales     R$10.55
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 515.40 menos o fundo de caixa (R$500,00)
 Sobra R$15.40
 ----------------------------------------------------
@@ -5257,9 +5257,9 @@ Sobra R$15.40
 O total de moedas    R$87.10
 O total de dinheiro  R$400.00
 O total de vales     R$13.80
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.90 menos o fundo de caixa (R$500,00)
 Sobra R$0.90
 ----------------------------------------------------
@@ -5269,9 +5269,9 @@ Sobra R$0.90
 O total de moedas    R$79.15
 O total de dinheiro  R$1071.00
 O total de vales     R$820.84
-O total de Cartões   R$4292.90
+O total de Cartï¿½es   R$4292.90
 ---------------------------------------------------
-O total a ser descontado do caixa é R$5760.75
+O total a ser descontado do caixa ï¿½ R$5760.75
 O total do caixa 6263.89 menos o fundo de caixa (R$500,00)
 Sobra R$3.14
 ----------------------------------------------------
@@ -5281,9 +5281,9 @@ Sobra R$3.14
 O total de moedas    R$79.15
 O total de dinheiro  R$414.00
 O total de vales     R$7.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.15 menos o fundo de caixa (R$500,00)
 Sobra R$0.15
 ----------------------------------------------------
@@ -5293,9 +5293,9 @@ Sobra R$0.15
 O total de moedas    R$79.30
 O total de dinheiro  R$414.00
 O total de vales     R$7.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.30 menos o fundo de caixa (R$500,00)
 Sobra R$0.30
 ----------------------------------------------------
@@ -5305,9 +5305,9 @@ Sobra R$0.30
 O total de moedas    R$78.30
 O total de dinheiro  R$415.00
 O total de vales     R$7.00
-O total de Cartões   R$531.30
+O total de Cartï¿½es   R$531.30
 ---------------------------------------------------
-O total a ser descontado do caixa é R$531.30
+O total a ser descontado do caixa ï¿½ R$531.30
 O total do caixa 1031.60 menos o fundo de caixa (R$500,00)
 Sobra R$0.30
 ----------------------------------------------------
@@ -5317,9 +5317,9 @@ Sobra R$0.30
 O total de moedas    R$76.30
 O total de dinheiro  R$2446.00
 O total de vales     R$9.50
-O total de Cartões   R$1674.20
+O total de Cartï¿½es   R$1674.20
 ---------------------------------------------------
-O total a ser descontado do caixa é R$3435.70
+O total a ser descontado do caixa ï¿½ R$3435.70
 O total do caixa 4206.00 menos o fundo de caixa (R$500,00)
 Sobra R$270.30
 ----------------------------------------------------
@@ -5329,9 +5329,9 @@ Sobra R$270.30
 O total de moedas    R$76.40
 O total de dinheiro  R$418.00
 O total de vales     R$7.00
-O total de Cartões   R$841.05
+O total de Cartï¿½es   R$841.05
 ---------------------------------------------------
-O total a ser descontado do caixa é R$841.05
+O total a ser descontado do caixa ï¿½ R$841.05
 O total do caixa 1342.45 menos o fundo de caixa (R$500,00)
 Sobra R$1.40
 ----------------------------------------------------
@@ -5341,9 +5341,9 @@ Sobra R$1.40
 O total de moedas    R$65.65
 O total de dinheiro  R$435.00
 O total de vales     R$3.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 503.65 menos o fundo de caixa (R$500,00)
 Sobra R$3.65
 ----------------------------------------------------
@@ -5353,9 +5353,9 @@ Sobra R$3.65
 O total de moedas    R$65.35
 O total de dinheiro  R$432.00
 O total de vales     R$2.57
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.92 menos o fundo de caixa (R$500,00)
 Sobra R$-0.08
 ----------------------------------------------------
@@ -5365,9 +5365,9 @@ Sobra R$-0.08
 O total de moedas    R$65.00
 O total de dinheiro  R$428.00
 O total de vales     R$7.00
-O total de Cartões   R$9.40
+O total de Cartï¿½es   R$9.40
 ---------------------------------------------------
-O total a ser descontado do caixa é R$9.40
+O total a ser descontado do caixa ï¿½ R$9.40
 O total do caixa 509.40 menos o fundo de caixa (R$500,00)
 Sobra R$-0.00
 ----------------------------------------------------
@@ -5377,9 +5377,9 @@ Sobra R$-0.00
 O total de moedas    R$64.80
 O total de dinheiro  R$435.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.80 menos o fundo de caixa (R$500,00)
 Sobra R$-0.20
 ----------------------------------------------------
@@ -5389,9 +5389,9 @@ Sobra R$-0.20
 O total de moedas    R$62.50
 O total de dinheiro  R$775.00
 O total de vales     R$0.00
-O total de Cartões   R$2690.75
+O total de Cartï¿½es   R$2690.75
 ---------------------------------------------------
-O total a ser descontado do caixa é R$3028.25
+O total a ser descontado do caixa ï¿½ R$3028.25
 O total do caixa 3528.25 menos o fundo de caixa (R$500,00)
 Sobra R$0.00
 ----------------------------------------------------
@@ -5401,9 +5401,9 @@ Sobra R$0.00
 O total de moedas    R$60.05
 O total de dinheiro  R$426.00
 O total de vales     R$13.80
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 499.85 menos o fundo de caixa (R$500,00)
 Sobra R$-0.15
 ----------------------------------------------------
@@ -5413,9 +5413,9 @@ Sobra R$-0.15
 O total de moedas    R$59.95
 O total de dinheiro  R$440.00
 O total de vales     R$0.00
-O total de Cartões   R$460.85
+O total de Cartï¿½es   R$460.85
 ---------------------------------------------------
-O total a ser descontado do caixa é R$460.85
+O total a ser descontado do caixa ï¿½ R$460.85
 O total do caixa 960.80 menos o fundo de caixa (R$500,00)
 Sobra R$-0.05
 ----------------------------------------------------
@@ -5425,9 +5425,9 @@ Sobra R$-0.05
 O total de moedas    R$58.35
 O total de dinheiro  R$436.00
 O total de vales     R$5.80
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 500.15 menos o fundo de caixa (R$500,00)
 Sobra R$0.15
 ----------------------------------------------------
@@ -5437,9 +5437,9 @@ Sobra R$0.15
 O total de moedas    R$57.85
 O total de dinheiro  R$445.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 502.85 menos o fundo de caixa (R$500,00)
 Sobra R$2.85
 ----------------------------------------------------
@@ -5449,9 +5449,9 @@ Sobra R$2.85
 O total de moedas    R$57.80
 O total de dinheiro  R$645.00
 O total de vales     R$0.00
-O total de Cartões   R$0.00
+O total de Cartï¿½es   R$0.00
 ---------------------------------------------------
-O total a ser descontado do caixa é R$0.00
+O total a ser descontado do caixa ï¿½ R$0.00
 O total do caixa 702.80 menos o fundo de caixa (R$500,00)
 Sobra R$202.80
 ----------------------------------------------------
@@ -5461,9 +5461,9 @@ Sobra R$202.80
 O total de moedas    R$57.80
 O total de dinheiro  R$443.00
 O total de vales     R$582.00
-O total de Cartões   R$440.75
+O total de Cartï¿½es   R$440.75
 ---------------------------------------------------
-O total a ser descontado do caixa é R$968.75
+O total a ser descontado do caixa ï¿½ R$968.75
 O total do caixa 1523.55 menos o fundo de caixa (R$500,00)
 Sobra R$54.80
 ----------------------------------------------------
@@ -5473,9 +5473,9 @@ Sobra R$54.80
 O total de moedas    R$57.80
 O total de dinheiro  R$443.00
 O total de vales     R$528.00
-O total de Cartões   R$440.75
+O total de Cartï¿½es   R$440.75
 ---------------------------------------------------
-O total a ser descontado do caixa é R$968.75
+O total a ser descontado do caixa ï¿½ R$968.75
 O total do caixa 1469.55 menos o fundo de caixa (R$500,00)
 Sobra R$0.80
 ----------------------------------------------------
