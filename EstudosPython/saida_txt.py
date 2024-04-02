@@ -1,0 +1,17 @@
+from recepcao.arquivos_recepcao.utilidades import numeros
+from datetime import datetime
+dia = datetime.now()
+dia = dia.strftime('%d/%m/%Y')
+arquivo = open('vales.tx', 'w')
+faltando = numeros.leiaDinheiro('Valor do vale:R$')
+print('\033[1;31mTAMANHO DA FONTE PARA IMPRESSÃO Nº12\033[m')
+print('')
+print('')
+print('   ESTÁ FALTANDO NO CAIXA')
+print('-~'*15)
+print(f'{dia}')
+print(f'FALTANDO R${faltando:.2f}')
+print('')
+print('-~'*15)
+print('ESTÁ FALTANDO NO CAIXA\n'f'{dia}\n'f'FALTANDO R${faltando:.2f}', file=arquivo)
+arquivo.close()

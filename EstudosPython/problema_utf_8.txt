@@ -1,0 +1,12 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+Problemas de acentuacÃ£o em python
+
+Basta colocar um desses dois comentï¿½rios na primeira linha do seu cï¿½digo e
+o seu problema serï¿½ resolvido:
+
+# coding: iso-8859-1 -*-
+Ou
+# -*- encoding: utf-8 -*-
+A soma dos valores é R$366.00
